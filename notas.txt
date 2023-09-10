@@ -1,0 +1,13 @@
+se realiza conexion con el backend de django
+
+Usuario 
+victor
+12345
+
+modelo de la base de datos 14
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+34 correcion del otro
