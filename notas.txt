@@ -5,5 +5,3 @@ python manage.py migrate
 paypal
 1BjWn&uN
 
-
-holas
