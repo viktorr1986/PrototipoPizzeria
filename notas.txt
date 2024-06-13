@@ -2,6 +2,22 @@ python manage.py makemigrations
 
 python manage.py migrate
 
-paypal
-1BjWn&uN
 
+Usuario y contraseña tomados para el ejemplo
+Email: sb-xvpn930841557@personal.example.com
+Password: 1BjWn&uN
+
+
+Pizzeria>myenv\scripts\activate
+
+Pizzeria\backend>python manage.py runserver
+
+
+
+echo "# GuiasPrototipoPizzeria" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/viktorr1986/PrototipoPizzeria.git
+git push -u origin main
